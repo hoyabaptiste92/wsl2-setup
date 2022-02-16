@@ -33,9 +33,9 @@ A step-by-step guide to help you set up a WSL development environment using Ubun
 
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Docker Desktop
+* WSL2
+* UBuntu 20.04 LTS
 
 <div style="float:right"> 
 
